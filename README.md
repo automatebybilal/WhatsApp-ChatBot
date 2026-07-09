@@ -22,7 +22,7 @@ n8n · WhatsApp · OpenAI (AI + Transcription + Vision) · Simple Memory
 Customer support · E-commerce · Service businesses · Lead response systems · Any business active on WhatsApp
 
 ## 📸 Workflow Screenshot
-![Workflow](WhatsAPP%20Chatbot%20send%20message%20using%20text%20Voice%20%20image.png)
+![Workflow](WhatsAPP%20Chatbot%20Workflow.png)
 
 ## 📊 How It Works
 ![How It Works](WhatsApp%20Bot.png)
